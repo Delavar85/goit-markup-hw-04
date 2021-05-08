@@ -479,7 +479,6 @@ img {
   border-color: var(--accent-color);
 }
 .icon-client {
-  height: 60px;
   fill: var(--social-color);
 }
 
